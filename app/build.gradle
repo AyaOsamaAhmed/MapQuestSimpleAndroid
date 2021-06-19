@@ -36,7 +36,8 @@ dependencies {
 
     // added for MapQuest map
     implementation "com.mapquest:mapping-android-sdk:2.0.10"
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.1'
+
+    //implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.1'
 
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MQSimpleAndroidMap</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXlhLW9zYW1hIiwiYSI6ImNrcTNwZTNmZzA3ZmwyeG50d2lkbXF3ZzMifQ.bBpXwd1RLc7_ZLzRGvK7nA</string>
+</resources>
